@@ -3,7 +3,7 @@
 2024.04.22:
 
 These short programs were written in support of the article 
-"Khovanov homology and involutive Heegaard Floer homology"
+"Khovanov homology and the Involutive Heegaard Floer homology of branched double covers"
 by Akram Alishahi, Linh Truong, and Melissa Zhang. 
 
 Omega.py verifies that the explicit representative $\Omega$ of the homotopy equivalence between the Id bidmodule and the box-tensor of two Auroux-Zarev pieces described in Section 3.1 of the article.
